@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Chaudhary</h1>
-<h3 align="center">I’m addicted to learning and growing every day.</h3>
+<h3 align="center">I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun6552&label=Profile%20views&color=0e75b6&style=flat" alt="arun6552" /> </p>
 
@@ -25,11 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arun-chaudhary-b0b238168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-chaudhary-b0b238168" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arun-chaudhary-b0b238168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arun-chaudhary-b0b238168/" height="30" width="40" /></a>
 <a href="https://kaggle.com/arunchaudhary2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arunchaudhary2" height="30" width="40" /></a>
 <a href="https://medium.com/@arunchaudhary6552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arunchaudhary6552" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arunchaudhary651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arunchaudhary651" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arun6552/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arun6552/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/arunchaudhary651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/arunchaudhary651" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/arun6552/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arun6552/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun6552&show_icons=true&locale=en" alt="arun6552" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun6552&" alt="arun6552" /></p>
-
