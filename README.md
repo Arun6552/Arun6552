@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python,Data Science**
 
-- 📫 How to reach me **arunchaudhary6552@gmail.com**
+- 📫 How to reach me **contactarunchaudhary@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EkKxvQygh468zwvqviT6I8shtm7ycHKn/view?usp=sharing](https://drive.google.com/file/d/1EkKxvQygh468zwvqviT6I8shtm7ycHKn/view?usp=sharing)
 
