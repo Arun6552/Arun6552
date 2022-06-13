@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EkKxvQygh468zwvqviT6I8shtm7ycHKn/view?usp=sharing](https://drive.google.com/file/d/1EkKxvQygh468zwvqviT6I8shtm7ycHKn/view?usp=sharing)
 
+https://colab.research.google.com/drive/1t9zAN3mwLYfXFjz566oCAQvominBdovO?usp=sharing
+
 - ⚡ Fun fact **I think I am Funny**
 
 ### Blogs posts
