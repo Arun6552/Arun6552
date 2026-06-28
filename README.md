@@ -85,32 +85,6 @@ https://arunchaudhary02.com.np
 
 ---
 
-# 🚀 Featured Projects
-
-## 🚖 Uber End-to-End Data Engineering Pipeline
-
-An end-to-end Azure Data Engineering project implementing the Medallion Architecture using Azure, SQL, Python, Microsoft Fabric and Power BI.
-
-### Tech Stack
-
-Azure • Microsoft Fabric • Python • SQL • Power BI • ETL • Data Modeling
-
-Repository
-
-https://github.com/Arun6552/Arun6552-Uber-Project-Data-Engineer-End-To-End
-
----
-
-## 📄 Enterprise Document Data Extraction Pipeline
-
-Built an OCR-powered enterprise solution using OpenCV and Tesseract OCR for extracting structured data from Aadhaar documents with over 95% accuracy.
-
-Tech
-
-.NET 8 • C# • OpenCV • OCR • Azure
-
----
-
 # 🎓 Certifications
 
 🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
